@@ -23,7 +23,7 @@ function sayHiToGrandma(speech){
     return "YES INDEED!";
   }
   else if (){
-    
+    return ""
   }
   
 }
