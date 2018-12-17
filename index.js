@@ -16,10 +16,10 @@ function logWhisper(speech) {
 
 function sayHiToGrandma(speech){
 
-  if (speech.toLowerCase() === lowercase) {
+  if (speech.toLowerCase() === speech) {
     return "I can\'t hear you!";
     }
-  else if (speech.toUpperCase() === uppercase) {
+  else if (speech.toUpperCase() === speech) {
     return "YES INDEED!";
   }
   
