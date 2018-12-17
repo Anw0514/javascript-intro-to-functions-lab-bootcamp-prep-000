@@ -1,13 +1,13 @@
 function shout(speech) {
-  return string.toUpperCase();
+  return speech.toUpperCase();
 }
 
-function whisper(string) {
-  return string.toLowerCase();
+function whisper(speech) {
+  return speech.toLowerCase();
 }
 
-function logShout(string) {
-  console.log(string.toUpperCase());
+function logShout(speech) {
+  console.log(speech.toUpperCase());
 }
 
 function logWhisper(speech) {
